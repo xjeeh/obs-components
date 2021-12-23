@@ -1,0 +1,10 @@
+/* Component: https://dashboard.twitch.tv/widgets/goal/xjeeh_ */
+
+/* Custom style: */
+body { background-color: rgba(0, 0, 0, 0); margin: 0px auto; overflow: hidden; height: 60vh !important; width: 85vw !important; font-family: Roboto !important;}
+#root { font-weight: bold; }
+.goal_widget { background-color: #808080 !important; }
+.goal_widget__progress_bar { background: linear-gradient(transparent, rgba(0, 0, 0, 0.15)) hsl(250deg 59% 48%) !important; }
+.goal_widget__metadata { color: white !important; }
+.goal_widget__contributions { color: white !important; }
+.goal_widget__image {  margin: 70px -24px 0px -35px !important; height: 286% !important; content: url('http://24.media.tumblr.com/tumblr_mcm1ec68fN1qfqgb9o1_1280.gif') !important; }
